@@ -1,0 +1,1 @@
+EXPLAIN ANALYZE SELECT * FROM orders WHERE orderid<2000;

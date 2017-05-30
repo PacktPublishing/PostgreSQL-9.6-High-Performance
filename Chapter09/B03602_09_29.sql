@@ -1,0 +1,1 @@
+EXPLAIN SELECT Count(*) FROM foo WHERE a = 100;

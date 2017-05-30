@@ -1,0 +1,8 @@
+dellstore2=# CREATE TABLE orders_2004_q1                                                                                                                                                                    (CHECK ( orderdate >= DATE '2004-01-01' and orderdate < DATE '2004-04-01'))                                                                                                                                 INHERITS (orders);
+
+dellstore2=# CREATE TABLE orders_2004_q2                                                                                                                                                                    (CHECK ( orderdate >= DATE '2004-04-01' and orderdate < DATE '2004-07-01'))                                                                                                                                 INHERITS (orders);
+
+dellstore2=# CREATE TABLE orders_2004_q3                                                                                                                                                                    (CHECK ( orderdate >= DATE '2004-07-01' and orderdate < DATE '2004-10-01'))                                                                                                                                 INHERITS (orders);
+
+dellstore2=# CREATE TABLE orders_2004_q4                                                                                                                                                                    (CHECK ( orderdate >= DATE '2004-10-01' and orderdate < DATE '2005-01-01'))                                                                                                                                 INHERITS (orders);
+

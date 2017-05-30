@@ -1,0 +1,1 @@
+EXPLAIN SELECT count(*) FROM foo WHERE a > 100 AND a < 400;

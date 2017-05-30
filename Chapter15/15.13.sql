@@ -1,0 +1,1 @@
+EXPLAIN ANALYZE SELECT * FROM orders WHERE orderdate='2004-11-16';

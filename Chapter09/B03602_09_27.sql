@@ -1,0 +1,1 @@
+EXPLAIN SELECT * FROM foo WHERE a = 100;
