@@ -1,4 +1,4 @@
-# PostgreSQL High Performance - Second Edition
+# PostgreSQL 9.6 High Performance
 This is the code repository for [PostgreSQL 9.6 High Performance](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-high-performance-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781784392970), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 This book starts with the basic concepts of database performance, because all successful database applications are destined to eventually run into issues when scaling up their performance. Therefore, you need to understand the basics of database performance.
