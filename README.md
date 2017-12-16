@@ -20,6 +20,3 @@ In order for this book to be useful, you need at least access to a PostgreSQL cl
 * [PostgreSQL 9.0 High Performance](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-90-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781849510301)
 
 * [PostgreSQL 9 Admin Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-9-admin-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849510288)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
