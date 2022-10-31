@@ -25,7 +25,3 @@ In order for this book to be useful, you need at least access to a PostgreSQL cl
 * [PostgreSQL 9.0 High Performance](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-90-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781849510301)
 
 * [PostgreSQL 9 Admin Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-9-admin-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849510288)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781849510301">https://packt.link/free-ebook/9781849510301 </a> </p>
